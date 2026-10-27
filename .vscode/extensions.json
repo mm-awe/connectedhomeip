@@ -20,7 +20,7 @@
         "ms-python.isort",
         "ms-python.mypy-type-checker",
         "ms-vscode.cpptools",
-        "msedge-dev.gnls",
+        "google.gn",
         "redhat.vscode-yaml",
         "tamasfe.even-better-toml",
         "vadimcn.vscode-lldb",
